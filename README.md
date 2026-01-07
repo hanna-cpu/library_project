@@ -18,3 +18,19 @@ install the reflex : pip install reflex NOTE: I used reflex 0.8 , it may not wor
 goto the folder and run : reflex run
 reflex compiles the code and creates a webserver on port 3000.
 goto http://localhost:3000 on your browser. 
+
+DataBase Tables : 
+<img width="409" height="325" alt="image" src="https://github.com/user-attachments/assets/8e6a60a8-3f71-40ae-ade1-62e59c8b3f1a" />
+
+
+
+Screen Shots
+<img width="687" height="673" alt="image" src="https://github.com/user-attachments/assets/fc197704-9451-48a4-8a99-e0d51c2e3bbf" />
+
+<img width="1611" height="460" alt="image" src="https://github.com/user-attachments/assets/40e49fdb-c6ff-4792-b020-02754f5db969" />
+
+<img width="1617" height="918" alt="image" src="https://github.com/user-attachments/assets/75a87aa5-15d8-43ae-bf89-c5d03e14ec85" />
+
+<img width="1616" height="537" alt="image" src="https://github.com/user-attachments/assets/ddc20e08-1bf9-4610-9826-0f06e591c72f" />
+
+
