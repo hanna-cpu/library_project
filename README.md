@@ -13,11 +13,18 @@ This whole project is built using Reflex Python Frame work on visual Studio.
 How to Run :
 
 Clone this repo to your computer.
+
 create a new python virtual environment.
+
 install the reflex : pip install reflex NOTE: I used reflex 0.8 , it may not work with later versions or older
+
 goto the folder and run : reflex run
+
 reflex compiles the code and creates a webserver on port 3000.
+
 goto http://localhost:3000 on your browser. 
+
+
 
 DataBase Tables : 
 <img width="409" height="325" alt="image" src="https://github.com/user-attachments/assets/8e6a60a8-3f71-40ae-ade1-62e59c8b3f1a" />
