@@ -10,7 +10,7 @@ This program is a 3 tier architecture, has a Sql Lite database. I created sqlite
 
 This whole project is built using Reflex Python Frame work on visual Studio.
 
-How to Run :
+**How to Run :**
 
 Clone this repo to your computer.
 
@@ -26,12 +26,16 @@ goto http://localhost:3000 on your browser.
 
 
 
-DataBase Tables : 
+**DataBase Tables : **
+
+
 <img width="409" height="325" alt="image" src="https://github.com/user-attachments/assets/8e6a60a8-3f71-40ae-ade1-62e59c8b3f1a" />
 
 
 
-Screen Shots
+**Screen Shots**
+
+
 <img width="687" height="673" alt="image" src="https://github.com/user-attachments/assets/fc197704-9451-48a4-8a99-e0d51c2e3bbf" />
 
 <img width="1611" height="460" alt="image" src="https://github.com/user-attachments/assets/40e49fdb-c6ff-4792-b020-02754f5db969" />
